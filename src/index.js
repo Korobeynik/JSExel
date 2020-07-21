@@ -1,2 +1,2 @@
 import './module'
-import  './sass/index.sass'
+import './sass/index.sass'
