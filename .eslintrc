@@ -14,7 +14,9 @@
     "padded-blocks": "off",
     "eol-last": "off",
     "require-jsdoc": "off",
-    "no-trailing-spaces": "off"
+    "no-trailing-spaces": "off",
+    "no-undef": "off",
+    "no-undefined": "off"
   },
   "extends": ["eslint:recommended", "google"]
 }
